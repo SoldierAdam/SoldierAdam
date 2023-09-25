@@ -14,7 +14,8 @@
 </p>
 
 # 💫 About Me:
->💥I'm learning React now<br>⚡I want to learn React Native in future<br>
+
+🌱I am an enthusiast programmer. I focus on creating web apps.<br>💥I'm learning React now<br>⚡I want to learn React Native in future<br>
 
 ## Use To Code
 
