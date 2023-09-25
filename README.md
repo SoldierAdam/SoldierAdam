@@ -14,7 +14,7 @@
 </p>
 
 # 💫 About Me:
-✏️I'm currently working on Web Developing<br>💥I'm learning React now<br>⚡I want to learn React Native in future<br>
+>💥I'm learning React now<br>⚡I want to learn React Native in future<br>
 
 ## Use To Code
 
