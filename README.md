@@ -34,3 +34,5 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ermanİskender" />
 </p>
 <br/>
+
+### 🔭 I’m currently working on my knowledge and I'm open for job offers.
