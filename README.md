@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp> Hey There!, I am
                 <b><a target="_blank" href="https://ermaniskender.com">Erman İskender</a></b>
         </samp>
 </h3>
